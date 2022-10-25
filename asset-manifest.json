@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/memory-game/static/css/main.96fd5732.chunk.css",
-    "main.js": "/memory-game/static/js/main.55356a0d.chunk.js",
-    "main.js.map": "/memory-game/static/js/main.55356a0d.chunk.js.map",
+    "main.js": "/memory-game/static/js/main.1471e9f4.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.1471e9f4.chunk.js.map",
     "runtime-main.js": "/memory-game/static/js/runtime-main.3fdda8ea.js",
     "runtime-main.js.map": "/memory-game/static/js/runtime-main.3fdda8ea.js.map",
     "static/js/2.a9877a4d.chunk.js": "/memory-game/static/js/2.a9877a4d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3fdda8ea.js",
     "static/js/2.a9877a4d.chunk.js",
     "static/css/main.96fd5732.chunk.css",
-    "static/js/main.55356a0d.chunk.js"
+    "static/js/main.1471e9f4.chunk.js"
   ]
 }
